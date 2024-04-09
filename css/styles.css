@@ -710,10 +710,10 @@ ul {
   fill: #F4F4FD;
 }
 .checkbox-icon {
-
-
+  fill: transparent;
 }
-.privacy-policy {
+.
+privacy-policy {
   color: #4d5ae5;
 }
 .send-button {
