@@ -675,8 +675,8 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
-  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
+  border: 1px solid rgba(46, 47, 66, 0.4);
   background-color: transparent;
   padding: 8px 16px;
   outline: transparent;
@@ -693,10 +693,12 @@ ul {
 .user-privacy-checkbox {
   margin-bottom: 24px;
 }
+
 .checkbox-checked {
 }
 .visually-hidden {
 }
+
 .checkbox-label {
   font-size: 12px;
   line-height: 1.17;
@@ -714,11 +716,12 @@ ul {
   justify-content: center;
   justify-content: center;
   fill: transparent;
-}
-.checkbox-icon {
   background-color: #404bbf;
   border: none;
   fill: #F4F4FD;
+}
+.checkbox-icon {
+
 
 }
 .privacy-policy {
