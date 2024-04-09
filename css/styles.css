@@ -581,12 +581,6 @@ ul {
 .close-modal-button:focus {
   background-color: #404bbf;
   border: none;
-}
-
-
-
-.close-button-pic:hover 
-.close-button-pic:focus {
   fill: #ffffff;
 }
 
