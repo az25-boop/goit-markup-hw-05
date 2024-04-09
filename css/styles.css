@@ -583,10 +583,7 @@ ul {
   border: none;
 }
 
-.close-modal-button:hover
-.close-modal-button:focus {
-  fill: #ffffff;
-}
+
 
 .close-button-pic:hover 
 .close-button-pic:focus {
