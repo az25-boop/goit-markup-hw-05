@@ -684,8 +684,8 @@ ul {
 }
 
 .checkbox-checked {
-}
-.visually-hidden {
+  border: none;
+  fill: #F4F4FD;
 }
 
 .checkbox-label {
@@ -710,11 +710,7 @@ ul {
 .checkbox-icon {
 }
 
-.checkbox-checked:checked + .checkbox-label > .modal-icon-checkbox {
-  background-color: #404bbf;
-  border: none;
-  fill: #f4f4fd;
-}
+
 
 .privacy-policy {
   color: #4d5ae5;
