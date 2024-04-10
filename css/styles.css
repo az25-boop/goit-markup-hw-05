@@ -684,10 +684,10 @@ ul {
 }
 
 .checkbox-checked {
-    
+  border: none;
 }
 .visually-hidden {
-  
+  fill: #F4F4FD;
 }
 
 .checkbox-label {
@@ -706,15 +706,16 @@ ul {
   align-items: center;
   justify-content: center;
   background-color: #404bbf;
-
   fill: transparent;
 }
+
 .checkbox-icon {
-  
 }
+
 .privacy-policy {
   color: #4d5ae5;
 }
+
 .send-button {
   display: block;
   min-width: 169px;
