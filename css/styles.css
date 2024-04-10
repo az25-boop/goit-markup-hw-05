@@ -394,6 +394,10 @@ ul {
   margin-right: 120px;
 }
 
+.sm-container {
+  margin-right: 80px;
+}
+
 .sm-container-paragraph {
   font-weight: 500;
   font-size: 16px;
