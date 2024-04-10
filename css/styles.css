@@ -625,6 +625,7 @@ ul {
 .modal-input-div {
   position: relative;
   fill: #4D5AE5;
+  margin-bottom: 16px;
 }
 
 .modal-input {
