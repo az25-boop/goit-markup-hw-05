@@ -705,11 +705,12 @@ ul {
   justify-content: center;
   background-color: #404bbf;
   fill: transparent;
+  border: none;
+  fill: #F4F4FD;
 }
 
 .checkbox-icon {
-  border: none;
-  fill: #F4F4FD;
+  
 }
 
 .privacy-policy {
