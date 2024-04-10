@@ -684,8 +684,10 @@ ul {
 }
 
 .checkbox-checked {
+    fill: #F4F4FD;
 }
 .visually-hidden {
+  border: none;
 }
 
 .checkbox-label {
@@ -708,7 +710,7 @@ ul {
   fill: transparent;
 }
 .checkbox-icon {
-  fill: #F4F4FD;
+  
 }
 .
 privacy-policy {
