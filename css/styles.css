@@ -693,6 +693,8 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.04em; 
   color: #8e8f99;
+  border: none;
+  fill: #F4F4FD;
 }
 .modal-icon-checkbox {
   width: 16px;
@@ -705,8 +707,6 @@ ul {
   justify-content: center;
   background-color: #404bbf;
   fill: transparent;
-  border: none;
-  fill: #F4F4FD;
 }
 
 .checkbox-icon {
