@@ -693,8 +693,6 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.04em; 
   color: #8e8f99;
-  border: none;
-  fill: #F4F4FD;
 }
 .modal-icon-checkbox {
   width: 16px;
@@ -710,7 +708,12 @@ ul {
 }
 
 .checkbox-icon {
-  
+}
+
+.checkbox-checked:checked + .checkbox-label > .modal-icon-checkbox {
+  background-color: #404bbf;
+  border: none;
+  fill: #f4f4fd;
 }
 
 .privacy-policy {
