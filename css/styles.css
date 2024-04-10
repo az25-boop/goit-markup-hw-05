@@ -624,6 +624,7 @@ ul {
 
 .modal-input-div {
   position: relative;
+  fill: #4D5AE5;
 }
 
 .modal-input {
@@ -639,7 +640,6 @@ ul {
 
 .modal-input:focus {
   border-color: #4D5AE5;
-  fill: #4D5AE5;
 }
 
 .modal-icon {
