@@ -642,6 +642,10 @@ ul {
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+input:focus + modal-icon {
+  fill: #4D5AE5; fill: #2E2F42; 
+}
+
 .modal-input:focus {
   border-color: #4D5AE5;
 }
@@ -655,10 +659,10 @@ ul {
   fill: #2E2F42;
 }
 
+
 .modal-icon:focus {
   fill: #4D5AE5;
 }
-   
 
 .textarea-div {
   margin-bottom: 16px;
