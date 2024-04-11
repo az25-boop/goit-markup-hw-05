@@ -643,7 +643,7 @@ ul {
 }
 
 input:focus + modal-icon {
-  fill: #4D5AE5; fill: #2E2F42; 
+  fill: #4D5AE5;
 }
 
 .modal-input:focus {
