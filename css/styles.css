@@ -643,8 +643,8 @@ ul {
 }
 
 
-.modal-input:focus + .modal-icon:focus{
-  fill: var(--color-iris);
+.modal-input:focus + .modal-icon {
+  fill: #4D5AE5;
 }
 
 .modal-icon {
